@@ -140,5 +140,5 @@ This project is open-source and free to use.
 ---
 
 ## Contact
-For any queries, reach out to **[Your Name]** at **your-email@example.com**.
+For any queries, reach out to **[Dharmveer Singh]** at **veersinghmau@gmail.com**.
 
