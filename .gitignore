@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Logs
+*.log
+logs/
+
+# Python virtual environment files
+Pipfile
+Pipfile.lock
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache files
+*.cache
